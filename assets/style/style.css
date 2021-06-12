@@ -836,7 +836,7 @@ h4 {
 }
 
 .contact-area .contact-img{
-    background-image: url('/assets/image/contact-img.webp');
+    background-image: url('../image/contact-img.webp');
     background-repeat: no-repeat;
     background-size: cover;
 
